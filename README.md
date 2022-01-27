@@ -3,7 +3,7 @@ Here is the repository to reproduce the results of our ICML 22 submission. It in
 
 
 ### Feature extraction
-The extraction is done with the Opensmile library, all the files concerned are in the folder "data\_preparation/" and it involves three steps : 
+The extraction is done using the Opensmile library, all the files concerned are in the folder "data\_preparation/" and it involves three steps : 
 - Extracting the signal features using the two scripts 
 - Mixing the two sets of features
 - Normalizing the values per feature
