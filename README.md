@@ -19,13 +19,6 @@ python exp_optimizing.py Libri_K_matrices/ Libri_logL_matrices/ 0 Lresults/
 '''
 The result of this selection will be output in Lresults in a file named after the date and time of the experiment. You can change the 0 parameters by any value to get the verbose version printing the values of the weights after every iteration.  
 
-### Self-supervised training
-
-Pretrained models for the CommonVoice pretraining  are available here : 
-https://1drv.ms/u/s!AtZNOLRhbqF6aH0KE5qIbwzEf60?e=NTaFDL
-
-To launch a self-supervised learning, you will need the audio files form CommonVoice, the extracted workers from the first part, 
-
 ### Downstream finetuning
 
 ##### LibriSpeech 
